@@ -262,6 +262,7 @@ var eleOver = document.getElementById("skp");
 	{ 
       myImage.src = "./images/icons8-search - Copy.svg";
     }
-    function mouseOut() { 
+    function mouseOut() 
+	{ 
       myImage.src = "./images/icons8-search.svg";
     }
